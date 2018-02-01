@@ -1,0 +1,4 @@
+worker-id: f974e325-c3fc-45ea-940b-08404b253220
+logs.users: []
+logs.groups: []
+topology.submitter.user: werewolf
